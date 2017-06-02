@@ -6,4 +6,4 @@ git commit -m "dobavili index.php"
 git push
 git add -A закидывает все файлы
 
-
+git pull
