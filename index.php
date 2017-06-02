@@ -9,6 +9,11 @@
 <section id="screen-1">
 	<div class="uk-container">
 		<h1>We are starting</h1>
+		<ul>
+			<li>Главная</li>
+			<li>О нас</li>
+			<li>Проекты</li>
+		</ul>
 	</div>
 </section>
 	
