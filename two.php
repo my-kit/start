@@ -7,3 +7,5 @@ git push
 git add -A закидывает все файлы
 
 git pull
+
+once agiain git pull
